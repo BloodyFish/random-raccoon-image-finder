@@ -1,5 +1,5 @@
 # random-raccoon-image-finder
-I absoultely adore raccoons, so I created a way to get randomized raccoon images for a little laugh.\
+I absoultely adore raccoons, so I created a way to get randomized (goofy) raccoon images for a little laugh.\
 <br />
 When you run main.py, you will be asked for the amount of images you want and the dowload location! After those things are specified, you can enjoy your raccoons!
   * Make sure to use "/" when specifying download location (Ex: D:/Pictures/Raccoons)
